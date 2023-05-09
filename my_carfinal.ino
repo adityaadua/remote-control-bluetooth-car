@@ -27,32 +27,27 @@ void loop() {
     if(input=='F')
     {
       forward();
-
     }
 
     else if(input=='G')
     {
       backward();
-
     }
 
     else if(input=='L')
     {
       left();
-
     }
 
     else if(input=='R')
     {
       right();
-
     }
 
     else if(input=='S')
     {
       stop();
     }
-
   }
 
 
